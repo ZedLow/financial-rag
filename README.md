@@ -84,15 +84,22 @@ Constraints do not eliminate all errors, but they **reduce the space in which er
 
 ```mermaid
 graph TD
-    A[User Query] --> B[Entity Router / GLiNER - CPU]
+    A[User Query] --> B[Entity Router GLiNER CPU]
+
     B -->|Apple| C[Apple Documents Only]
     B -->|Microsoft| D[Microsoft Documents Only]
-    B -->|Unknown Entity| E[Reject: Out of Scope]
-    B -->|No Clear Entity| F[Reject: Ambiguous Query]
-    C & D --> G[Dense Retrieval / GTE-7B]
-    G --> H[Reranking / BGE-M3]
-    H --> I[Vision Analysis / Qwen2-VL]
+    B -->|Unknown Entity| E[Reject Out of Scope]
+    B -->|No Clear Entity| F[Reject Ambiguous Query]
+
+    C --> G[Dense Retrieval GTE 7B]
+    D --> G
+
+    G --> H[Reranking BGE M3]
+    H --> I[Vision Analysis Qwen VL]
     I --> J[Grounded Answer]
+```
+
+
 
 ## Key Components
 
