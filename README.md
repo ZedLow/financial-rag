@@ -219,7 +219,8 @@ Despite architectural constraints, the system can still produce **incomplete or 
 
 ### Live Demo
 
-Deployed on Hugging Face Spaces using ZeroGPU.
+Deployed on Hugging Face Spaces using ZeroGPU:
+https://huggingface.co/spaces/ZedLow/Constrained-Financial-RAG
 
 ---
 
