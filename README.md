@@ -1,5 +1,5 @@
 ---
-title: Secured Financial RAG with Explicit Routing
+title: Constrained Financial RAG with Explicit Routing
 colorFrom: blue
 colorTo: indigo
 sdk: gradio
