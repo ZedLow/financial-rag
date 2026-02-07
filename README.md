@@ -8,7 +8,7 @@ license: mit
 pinned: false
 ---
 
-# Secured Financial RAG (Vision-Native)
+# Constrained Financial RAG (Vision-Native)
 
 **Portfolio project – Master 1 Artificial Intelligence**
 
