@@ -1,0 +1,32 @@
+[
+  {
+    "doc_name": "Microsoft - Income Statement 2023",
+    "image_path": "data/images/msft_income.jpeg",
+    "text": "INCOME STATEMENT Year Ended June 30, 2023. Revenue: Product $64,560, Service and other $147,355. Total revenue $211,915. Research and development $27,195."
+  },
+  {
+    "doc_name": "Microsoft - Balance Sheet 2023",
+    "image_path": "data/images/msft_balance.jpeg",
+    "text": "BALANCE SHEET As of June 30, 2023. Assets. Current assets: Cash and cash equivalents $34,704."
+  },
+  {
+    "doc_name": "Microsoft - Notes 2023",
+    "image_path": "data/images/msft_note.jpeg",
+    "text": "Note 15 — Contingencies. Government Competition and Regulatory Matters."
+  },
+  {
+    "doc_name": "Apple - Income Statement 2023",
+    "image_path": "data/images/apple_income.jpeg",
+    "text": "Apple Inc. CONSOLIDATED STATEMENTS OF OPERATIONS. Net sales: Products $298,085, Services $85,200. Research and development $29,915."
+  },
+  {
+    "doc_name": "Apple - Balance Sheet 2023",
+    "image_path": "data/images/apple_balance.jpeg",
+    "text": "Apple Inc. CONSOLIDATED BALANCE SHEETS. ASSETS. Current assets: Cash and cash equivalents $29,965."
+  },
+  {
+    "doc_name": "Apple - Notes 2023",
+    "image_path": "data/images/apple_note.jpeg",
+    "text": "Note 5 – Income Taxes. The provision for income taxes for 2023."
+  }
+]
