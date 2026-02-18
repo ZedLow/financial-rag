@@ -232,7 +232,7 @@ Requires a GPU with **≥24GB VRAM**.
 git clone https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME
 pip install -r requirements.txt
 python app.py
-
+```
 ## Context
 
 Built as part of a **Master 1 in Artificial Intelligence**.
